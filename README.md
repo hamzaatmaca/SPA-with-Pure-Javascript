@@ -1,0 +1,2 @@
+Pure-JS-with-SPA
+I use pure javascript for making SPA in this project. We can make a SPA with JS without using any framework.
